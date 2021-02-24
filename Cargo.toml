@@ -1,7 +1,7 @@
 [package]
 name = "gf"
 version = "0.1.0"
-authors = ["Christopher Nilsson <christopher.nille.nilsson@gmail.com>"]
+authors = ["Christopher Nilsson <c@shapeapp.se>"]
 edition = "2018"
 description = "A tool for quicker git-handling on terminal."
 
