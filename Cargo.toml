@@ -1,0 +1,18 @@
+[package]
+name = "gf"
+version = "0.1.0"
+authors = ["Christopher Nilsson <christopher.nille.nilsson@gmail.com>"]
+edition = "2018"
+description = "A tool for quicker git-handling on terminal."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.13"
+anyhow = "1.0"
+assert_cmd = "0.10"
+predicates = "1"
+tempfile = "3"
+termion = "*"
+read_input = "0.8"
+regex = "1"
